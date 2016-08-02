@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Pavo real</key>
+	<string>peacock.jpg</string>
+	<key>Cisne</key>
+	<string>swan.jpg</string>
+	<key>Zorro</key>
+	<string>fox.jpg</string>
+	<key>Halcón</key>
+	<string>hawk.jpg</string>
+	<key>Ratón</key>
+	<string>mouse.jpg</string>
+	<key>Oso</key>
+	<string>bear.jpg</string>
+	<key>Bisonte</key>
+	<string>bison.jpg</string>
+	<key>Delfín</key>
+	<string>dolphin.jpg</string>
+	<key>Tortuga marina</key>
+	<string>turtle.jpg</string>
+	<key>Pájaro</key>
+	<string>bird.jpg</string>
+	<key>León
+</key>
+	<string>lion.jpg</string>
+	<key>Tigre</key>
+	<string>tiger.jpg</string>
+	<key>Gato</key>
+	<string>cat.jpg</string>
+	<key>Perro</key>
+	<string>dog.jpg</string>
+	<key>Murciélago</key>
+	<string>bat.jpg</string>
+	<key>Ciervo</key>
+	<string>deer.jpg</string>
+	<key>Hormiga</key>
+	<string>ant.jpg</string>
+	<key>Abeja</key>
+	<string>bee.jpg</string>
+	<key>Mariposa</key>
+	<string>butterfly.jpg</string>
+</dict>
+</plist>

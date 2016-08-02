@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Clavel</key>
+	<string>carnation.jpg</string>
+	<key>Narciso</key>
+	<string>daffodil.jpg</string>
+	<key>Margarita</key>
+	<string>daisy.jpg</string>
+	<key>Gerbera</key>
+	<string>gerbera.jpg</string>
+	<key>Jacinto</key>
+	<string>hyancinth.jpg</string>
+	<key>Iris</key>
+	<string>iris.jpg</string>
+	<key>Jazmín</key>
+	<string>jasmine.jpg</string>
+	<key>Lila</key>
+	<string>lilac.jpg</string>
+	<key>Lilly</key>
+	<string>lilly.jpg</string>
+	<key>Magnolia</key>
+	<string>magnolia.jpg</string>
+	<key>Orquídea</key>
+	<string>orchid.jpg</string>
+	<key>Girasol</key>
+	<string>sunflower.jpg</string>
+	<key>Tulipán</key>
+	<string>tulip.jpg</string>
+</dict>
+</plist>
